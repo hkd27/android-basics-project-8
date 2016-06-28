@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookListing</string>
+    <string name="enter_your_query_here">Enter Your Query Here</string>
+    <string name="enter_number_of_result_to_be_returned">Enter Number of result to be returned</string>
+    <string name="search">Search</string>
+    <string name="search_for_book">Search for book</string>
+</resources>
